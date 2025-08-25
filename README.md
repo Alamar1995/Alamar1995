@@ -1,45 +1,37 @@
-# Hi there, I'm Nvawo Alamar Nvawo! 👋
+Hi there, I'm Nvawo Alamar!
 
-![Banner Image](your_banner_image_url_here)
+ About Me
 
-## About Me 🚀
+> “I am a learner of the **ALX Software Engineering (Backend Web Development), Cohort 7** program and I want to revamp my GitHub Profile to make it stand out in my job search. I started this journey because I’m inspired by my dreams and curiosity, and I love using technology to solve logical problems through programming. My aim is to **become a software developer who creates solutions for both user and business needs, while leveraging data visualization and analytics**.”
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+* 💼 Aspiring **Backend Software Developer**
+* 🔭 Working on: **User-focused web applications and data-driven business solutions**
+* 🌱 Learning: **Advanced backend frameworks, APIs, and cloud deployment**
+* 🤝 Open to: **Collaborations, internships, and entry-level developer roles**
+* 📫 Reach me: **[nyawoalamar5@gmail.com](mailto:nyawoalamar5@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/nvawo-alamar-b06454229/)**
+* ⚡ Fun fact: **I blend my leadership skills and coding passion to tackle community and business challenges.**
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
 
-## My Skills 🧠
+## 🧠 Core Skills
+Html 
+Css
+java script
+power BI
+SQL
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+## 🏗️ Featured Projects
 
-## Featured Projects 💻
+### [Backend API for Business Analytics](https://github.com/Alamar1995/project1)
 
-### [Project 1 Title](project_1_link)
+A backend API that integrates business data, offering analytics endpoints and visual dashboards to drive decision-making.
 
-![Project 1 Screenshot](project_1_screenshot_url)
+### [User Management Web App](https://github.com/Alamar1995/project2)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+A responsive, secure web platform for user registration, authentication, and data management.
 
-### [Project 2 Title](project_2_link)
+### [Data Visualization Dashboard](https://github.com/Alamar1995/project3)
 
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
-## Get in Touch 📬
-
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+A Power BI-powered dashboard to analyze and visualize community and business datasets.
 
 
